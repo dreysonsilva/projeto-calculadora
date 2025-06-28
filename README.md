@@ -31,6 +31,6 @@ Este projeto foi criado com fins educacionais, para consolidar o aprendizado em:
 
 1. Clone o repositório
 ```bash 
-git clone https://github.com/seu-usuario/calculadora-simples.git
+git clone https://github.com/dreysonsilva/projeto-calculadora
 ```
 2. Abrar o index.html no navegador.
