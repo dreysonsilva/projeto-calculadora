@@ -9,23 +9,26 @@ Este é um projeto de uma calculadora básica desenvolvida com HTML, CSS e JavaS
 
 - Exibição do cálculo em tempo real;
 
-- Botão "C" para limpar o visor;
+- Botão "C" para limpar o visor.
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5 – Estrutura da página
+- HTML5 – Estrutura da página;
 
-CSS3 – Estilização e layout
+- CSS3 – Estilização e layout;
 
-JavaScript – Lógica dos cálculos e interações
+- JavaScript – Lógica dos cálculos e interações.
 
 ## 📚 Objetivo do Projeto
 Este projeto foi criado com fins educacionais, para consolidar o aprendizado em:
 
-- Manipulação de eventos com JavaScript
+- Manipulação de eventos com JavaScript;
 
-- Operações matemáticas com eval() (ou lógica própria)
+- Operações matemáticas com eval() (ou lógica própria);
 
-- Organização de código front-end
+- Organização de código front-end.
+
+## 📸 Preview
+<img src="https://github.com/dreysonsilva/projeto-calculadora/blob/main/imgs/calculadora.JPG?raw=true" alt="Preview da Calculadora" width="500"/>
 
 ## 🚀 Como Usar
 
