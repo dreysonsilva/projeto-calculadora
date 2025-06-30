@@ -27,7 +27,7 @@ Este projeto foi criado com fins educacionais, para consolidar o aprendizado em:
 
 - Organização de código front-end.
 
-## 📸 Preview
+## 📸 Tela
 <img src="https://github.com/dreysonsilva/projeto-calculadora/blob/main/imgs/calculadora.JPG?raw=true" alt="Preview da Calculadora" width="500"/>
 
 ## 🚀 Como Usar
