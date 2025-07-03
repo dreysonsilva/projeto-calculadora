@@ -1,5 +1,15 @@
 function appendValue(value) {
-  document.getElementById('display').value += value;
+  const display = document.getElementById('display');
+  const lastChar = display.value.slice(-1);
+  const operators = ['+', '-', '*', '/'];
+
+  if (operators.includes(value)) {
+    if (operators.includes(lastChar) || display.value === '') {
+      return;
+    }
+  }
+
+  display.value += value;
 }
 
 function clearDisplay() {
