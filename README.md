@@ -37,3 +37,9 @@ Este projeto foi criado com fins educacionais, para consolidar o aprendizado em:
 git clone https://github.com/dreysonsilva/projeto-calculadora
 ```
 2. Abrar o index.html no navegador.
+
+## Atualização do Sistema
+
+### Versão 1.1.0 - 03-07-2025
+
+- Permitir o usuário selecionar apenas 1 operação por vez ex.: 3x3/2-1 pode realizar. Não pode 3//4/1.
